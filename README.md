@@ -53,3 +53,6 @@ It is a CLI-based game, so you need to use the command line to interact with the
 2. Add a timer to see how long it takes the user to guess the number.
 3. Implement a hint system that provides clues to the user if they are stuck.
 4. Keep track of the user’s high score (i.e., the fewest number of attempts it took to guess the number under a specific difficulty level).
+
+# Link
+https://github.com/Mcodes23/number_guessing_game
